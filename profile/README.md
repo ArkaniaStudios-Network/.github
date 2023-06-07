@@ -5,7 +5,3 @@ The ArkaniaStudios organization is responsible for a multitude of projects with 
 ## ✨ Public access
 ### [ArkaniaStudios](https://arkaniastudios.com)
 Arkania’s official website accessible to all.
-
-### [Discord](https://arkaniastudios.com/discord)
-The discord that will allow you to stay informed of all the news present on the server.
-
